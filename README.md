@@ -3,4 +3,13 @@ Google papers
   -  [Agent Tools & Interoperability with Model Context Protocol (MCP)](https://github.com/harirajeev/agents/blob/main/Agent%20Tools%20%26%20Interoperability%20with%20Model%20Context%20Protocol%20(MCP).pdf)
   -  [Introduction to Agents](https://github.com/harirajeev/agents/blob/main/Introduction%20to%20Agents.pdf)
   -  [Prototype to Production](https://github.com/harirajeev/agents/blob/main/Prototype%20to%20Production.pdf)
+      -  Evaluation-Gated Deployment. The idea is simple but powerful: no agent version should reach users without first passing a comprehensive evaluation that proves its quality and safety.
+         -  Evaluation-Gated Deployment.
+           -  Evaluation as a Quality Gate
+           -  Evaluating an agent is distinct from evaluating an LLM; it requires assessing not just the final answer, but the entire trajectory of reasoning and actions taken to complete a task.
+           -  We need to evaluate its behavioral quality, not just its functional correctness.
+           -  Manual evaluation - Run the evaluation suite locally. The resulting performance report—comparing the new agent against the production baseline—is then linked in the PR description.
+           -  Automated evaluation - The CI/CD pipeline can be configured to automatically trigger an evaluation job that compares the new agent's responses against a golden dataset.
+           -  no agent proceeds to production without a quality check
+           -  
   -  [Context Engineering_ Sessions & Memory](https://github.com/harirajeev/agents/blob/main/Context%20Engineering_%20Sessions%20%26%20Memory.pdf)   
