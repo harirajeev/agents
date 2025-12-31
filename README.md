@@ -13,3 +13,6 @@ Google papers
            -  no agent proceeds to production without a quality check
            -  
   -  [Context Engineering_ Sessions & Memory](https://github.com/harirajeev/agents/blob/main/Context%20Engineering_%20Sessions%20%26%20Memory.pdf)   
+
+Anthropic
+-  [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
