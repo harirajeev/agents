@@ -20,6 +20,8 @@ Anthropic
    -  [Agent Skills](https://agentskills.io/home)
    -  [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
    -  [Claude Skills vs OpenAI Workflows/Agents (2025)](https://skywork.ai/blog/ai-agent/claude-skills-vs-openai-workflows-agents-2025-comparison/)
+   -  [How Anthropic’s ‘Skills’ make Claude faster, cheaper, and more consistent for business workflows](https://venturebeat.com/ai/how-anthropics-skills-make-claude-faster-cheaper-and-more-consistent-for)
+   -  [Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI](https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard)
 
 Galileo
 -  [Deep Dive into Context Engineering for Agents](https://galileo.ai/blog/context-engineering-for-agents)
