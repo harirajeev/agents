@@ -16,3 +16,6 @@ Google papers
 
 Anthropic
 -  [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+-  Skills
+   -  [Agent Skills](https://agentskills.io/home)
+   -  [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
