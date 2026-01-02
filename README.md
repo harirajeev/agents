@@ -19,3 +19,6 @@ Anthropic
 -  Skills
    -  [Agent Skills](https://agentskills.io/home)
    -  [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
+
+Galileo
+-  [Deep Dive into Context Engineering for Agents](https://galileo.ai/blog/context-engineering-for-agents)
