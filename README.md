@@ -29,4 +29,6 @@ Galileo
 
 [Agentic AI Foundation (https://aaif.io)](https://aaif.io/)
 -  The Linux Foundation announced the formation of the Agentic AI Foundation (AAIF) with founding contributions of leading technical projects including Anthropic’s Model Context Protocol (MCP), Block’s goose, and OpenAI’s AGENTS.md
-  
+
+CrewAI
+-  [nderstanding CrewAI: How LLMs Work Inside AgentsA Complete Deep Dive into Tool Execution, Prompt Engineering, and the ReAct Pattern](https://medium.com/@vikassanmacs0609/understanding-crewai-how-llms-work-inside-agentsa-complete-deep-dive-into-tool-execution-5ab0722228b7)
