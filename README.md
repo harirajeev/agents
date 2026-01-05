@@ -25,3 +25,7 @@ Anthropic
 
 Galileo
 -  [Deep Dive into Context Engineering for Agents](https://galileo.ai/blog/context-engineering-for-agents)
+
+[Agentic AI Foundation (https://aaif.io)](https://aaif.io/)
+-  The Linux Foundation announced the formation of the Agentic AI Foundation (AAIF) with founding contributions of leading technical projects including Anthropic’s Model Context Protocol (MCP), Block’s goose, and OpenAI’s AGENTS.md
+  
