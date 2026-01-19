@@ -31,12 +31,12 @@ Galileo
 -  The Linux Foundation announced the formation of the Agentic AI Foundation (AAIF) with founding contributions of leading technical projects including Anthropic’s Model Context Protocol (MCP), Block’s goose, and OpenAI’s AGENTS.md
 
 CrewAI
--  [nderstanding CrewAI: How LLMs Work Inside AgentsA Complete Deep Dive into Tool Execution, Prompt Engineering, and the ReAct Pattern](https://medium.com/@vikassanmacs0609/understanding-crewai-how-llms-work-inside-agentsa-complete-deep-dive-into-tool-execution-5ab0722228b7)
+-  [Understanding CrewAI: How LLMs Work Inside AgentsA Complete Deep Dive into Tool Execution, Prompt Engineering, and the ReAct Pattern](https://medium.com/@vikassanmacs0609/understanding-crewai-how-llms-work-inside-agentsa-complete-deep-dive-into-tool-execution-5ab0722228b7)
 
 Context graphs
-- [Context graphs are increasingly discussed as a foundational layer for agentic systems](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-knowledgegraphs-enterpriseai-activity-7416502167122968577-2AKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
-- [Context Graph: The Decision Control Plane](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417206103014293504-5dP2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
-- [Context Graph Series | Part 3: Temporal Reasoning](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417853813874700289-ml8B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
+- [Context graphs are increasingly discussed as a foundational layer for agentic systems - What are context graphs ?](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-knowledgegraphs-enterpriseai-activity-7416502167122968577-2AKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
+- [Context Graph: The Decision Control Plane - Where do they sit ? ](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417206103014293504-5dP2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
+- [Context Graph: Temporal Reasoning - How do Context Graphs actually work at decision time?](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417853813874700289-ml8B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
 - <img width="800" height="673" alt="image" src="https://github.com/user-attachments/assets/4c6f9d71-17cb-4158-a0b7-08425e6ef85c" />
 - <img width="2048" height="1462" alt="image" src="https://github.com/user-attachments/assets/dc2c9b5a-8120-4b8e-aca2-d0b0fa897e77" />
 
