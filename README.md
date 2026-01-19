@@ -37,9 +37,11 @@ Context graphs
 - [Context graphs are increasingly discussed as a foundational layer for agentic systems - What are context graphs ?](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-knowledgegraphs-enterpriseai-activity-7416502167122968577-2AKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
 - [Context Graph: The Decision Control Plane - Where do they sit ? ](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417206103014293504-5dP2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
 - [Context Graph: Temporal Reasoning - How do Context Graphs actually work at decision time?](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417853813874700289-ml8B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
+- [Context graph - interesting notes](https://github.com/amtp-protocol/agentry/blob/main/docs/ContextGraph.md)
 - <img width="800" height="673" alt="image" src="https://github.com/user-attachments/assets/4c6f9d71-17cb-4158-a0b7-08425e6ef85c" />
 - <img width="2048" height="1462" alt="image" src="https://github.com/user-attachments/assets/dc2c9b5a-8120-4b8e-aca2-d0b0fa897e77" />
 - <img width="800" height="596" alt="image" src="https://github.com/user-attachments/assets/941ab151-80e2-479e-8c65-af19bfd00bbc" />
+  
 
 
 
