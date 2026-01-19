@@ -32,3 +32,8 @@ Galileo
 
 CrewAI
 -  [nderstanding CrewAI: How LLMs Work Inside AgentsA Complete Deep Dive into Tool Execution, Prompt Engineering, and the ReAct Pattern](https://medium.com/@vikassanmacs0609/understanding-crewai-how-llms-work-inside-agentsa-complete-deep-dive-into-tool-execution-5ab0722228b7)
+
+Context graphs
+- [Context graphs are increasingly discussed as a foundational layer for agentic systems](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-knowledgegraphs-enterpriseai-activity-7416502167122968577-2AKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
+- [Context Graph: The Decision Control Plane](https://www.linkedin.com/posts/ashish-verma296_contextgraphs-enterpriseai-aiarchitecture-activity-7417206103014293504-5dP2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_X68BgeqqbwO_t6E_TclJx5YZFthngO4)
+- <img width="800" height="673" alt="image" src="https://github.com/user-attachments/assets/4c6f9d71-17cb-4158-a0b7-08425e6ef85c" />
