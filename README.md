@@ -41,6 +41,7 @@ Context graphs
 - [Context graph - interesting notes](https://github.com/amtp-protocol/agentry/blob/main/docs/ContextGraph.md)
 - [How to build context graph](https://www.linkedin.com/pulse/how-do-you-build-context-graph-jaya-gupta-xicwe/)
 - [A few clarifications on context graphs](https://www.linkedin.com/pulse/few-clarifications-context-graphs-animesh-koratana-uwsve/?trackingId=FwQmW88jlizRjbo7xyi8WQ%3D%3D)
+- [Decoding the Decision: My Exploration into Incorporating Context Graphs for AI Agents](https://www.linkedin.com/pulse/decoding-decision-my-exploration-incorporating-context-seshadri-ntc4c/)
 - <img width="800" height="673" alt="image" src="https://github.com/user-attachments/assets/4c6f9d71-17cb-4158-a0b7-08425e6ef85c" />
 - <img width="2048" height="1462" alt="image" src="https://github.com/user-attachments/assets/dc2c9b5a-8120-4b8e-aca2-d0b0fa897e77" />
 - <img width="800" height="596" alt="image" src="https://github.com/user-attachments/assets/941ab151-80e2-479e-8c65-af19bfd00bbc" />
